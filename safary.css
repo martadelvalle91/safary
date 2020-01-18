@@ -1,0 +1,31 @@
+
+
+h1 {
+    font-family: "Times New Roman";
+
+}
+
+main {
+    padding: 30px;
+    width: 500px;
+    background: #F2FCFF;
+    border: 2px solid #C3F1FF;
+    box-sizing: border-box;
+    border-radius: 30px;
+}
+
+
+
+article {
+    background: #5AD2AE;
+    border: 1px solid #469F85;
+    box-sizing: border-box;
+    border-radius: 20px;
+    color: white;
+   
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    image-orientation: width="40"height="30"
+
+}
